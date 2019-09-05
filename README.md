@@ -11,5 +11,5 @@ RabbitMQ Monit is a shell script that help to monitoring RabbitMQ.
 zabbix	ALL=(ALL) NOPASSWD: /usr/sbin/rabbitmq-diagnostics
 ```
 - Add `rabbitmq.sh` on `/etc/zabbix/scripts/`
-- Added `userparameter_rabbitmq.conf` on `/etc/zabbix/zabbix_agentd.d/`
+- Add `userparameter_rabbitmq.conf` on `/etc/zabbix/zabbix_agentd.d/`
 - Import Template
