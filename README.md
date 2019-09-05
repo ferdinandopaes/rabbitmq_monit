@@ -1,6 +1,6 @@
 # RabbitMQ Monit
 
-RabbitMQ Monit is a shell script that help to monitoring RabbitMQ.
+RabbitMQ Monit is a shell script that help to monitoring RabbitMQ with Zabbix.
 
 ### Setup
 
