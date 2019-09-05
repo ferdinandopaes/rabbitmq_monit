@@ -12,3 +12,4 @@ zabbix	ALL=(ALL) NOPASSWD: /usr/sbin/rabbitmq-diagnostics
 ```
 - Add `rabbitmq.sh` on `/etc/zabbix/scripts/`
 - Added `userparameter_rabbitmq.conf` on `/etc/zabbix/zabbix_agentd.d/`
+- Import Template
